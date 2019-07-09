@@ -94,6 +94,8 @@ public class HomeController : Controller
 
 ## Creating a Google app for OAuth 2 and connecting the app to the project
 
+### For current Google OAuth instructions, see https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/google-logins?view=aspnetcore-2.2
+
 1. Navigate to the Google Developers Console.
 
 2. If you haven't created a project before, select Credentials in the left tab, and then select Create.
