@@ -11,8 +11,11 @@
   - ASP.NET-MVC-Essentials
   - Working-with-Data
   - ASP.NET-Identity
+  - AJAX-in-ASP.NET-MVC
+  - IIS-Deployment-of-ASP.NET-Apps
 - Labs
   - ASP.NET-MVC-Introduction
-  - ASP.NET-MVC-Essentials
   - ASP.NET-Identity
+  - ASP.NET-MVC Hands on
+  - Events-Lab-ASP.NET-MVC
   
