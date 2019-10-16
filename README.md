@@ -14,4 +14,5 @@
 - Labs
   - ASP.NET-MVC-Introduction
   - ASP.NET-MVC-Essentials
+  - ASP.NET-Identity
   
