@@ -1,0 +1,6 @@
+C:\Users\nhuvi\Desktop\New folder\FGW.Application-Development\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dacpac
+C:\Users\nhuvi\Desktop\New folder\FGW.Application-Development\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dll
+C:\Users\nhuvi\Desktop\New folder\FGW.Application-Development\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
+C:\Users\nhuvi\Desktop\New folder\FGW.Application-Development\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.sqlprojAssemblyReference.cache
+C:\Users\nhuvi\Desktop\New folder\FGW.Application-Development\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
+C:\Users\nhuvi\Desktop\New folder\FGW.Application-Development\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb
