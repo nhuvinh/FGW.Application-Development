@@ -2,6 +2,20 @@
 
 ### Author: Vinh Hoang
 
+## Agenda
+- Session 1 : Theory
+- Session 2: Introduction to MVC and Entity Framework
+- Session 3: Lab (ASP.NET-MVC-Overview)
+- Session 4: ASP.NET Identity
+  - Lab (ASP.NET Identity)
+- Session 5 & 6 : Assignments Introduction
+  - Lab: Creating Blog with ASP.NET MVC
+- Session 7 & 8: Lab (Events Lab with ASP.NET MVC)
+- Session 9, 10 , 11, 12 : Assignemnts
+- Session 13 & 14: Assignments Feedbacks and 2nd Chance
+
+## Training Materials
+
 - ASP.NET Hands on
   - [Getting Started with ASP.NET MVC 5](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/)
   - [Getting Started with Entity Framework 6 Database First Using MVC 5](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/database-first-development/)
