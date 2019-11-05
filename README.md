@@ -4,6 +4,38 @@
 
 ## Agenda
 - Session 1: Theory
+  - Software Development Life Cycle
+  - [Software Requirements Specifications](http://www.cs.toronto.edu/~sme/CSC340F/slides/17-specifications.pdf)
+    - [Sample](http://www.cci.drexel.edu/SeniorDesign/2016_2017/Als/ConnectomeSRS.pdf)
+  - [Software Development Stack](https://en.wikipedia.org/wiki/Solution_stack)
+    - XAMPP
+    - WINS
+    - MEAN
+    - MERN
+  - [Software Risk Management](https://www.test-institute.org/What_Is_Software_Risk_And_Software_Risk_Management.php)
+    - [Sample](https://www.axia-consulting.co.uk/html/risk_assessment_form.html)
+  - Software Design Pattern
+    - [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+    - [Model-View-ViewModel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+  - UML
+    - Use case diagram
+    - [Use case specifications](https://www.visual-paradigm.com/guide/use-case/what-is-use-case-specification/)
+      - [Video](https://www.youtube.com/watch?v=i3dg99MWLZU)
+    - Class diagram
+    - Sequence diagram
+    - Entity relationship diagram
+  - [Mockup / Wireframe](https://brainhub.eu/blog/difference-between-wireframe-mockup-prototype/)
+    - [Balsamiq Wireframes](https://balsamiq.com/)
+    - [Marvelapp](https://marvelapp.com/)
+    - [XD](https://www.adobe.com/products/xd.html)
+    - [Figma](https://www.figma.com/)
+      - [Video](https://www.youtube.com/watch?v=6Id4INKEwb8)
+  - [Test cases](https://www.softwaretestingmaterial.com/test-case-template-with-explanation/)
+  - Deployment
+    - Azure
+    - Amazon Web Service
+    - Google Cloud
+    - Heroku
 - Session 2: Introduction to MVC and Entity Framework
 - Session 3: Lab (ASP.NET-MVC-Overview)
 - Session 4: Complete login and registration system in ASP.NET MVC application
@@ -20,8 +52,8 @@
   - [Getting Started with ASP.NET MVC 5](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/)
   - [Getting Started with Entity Framework 6 Database First Using MVC 5](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/database-first-development/)
   - Complete login and registration system in ASP.NET MVC application
-    - [Part 1](http://www.dotnetawesome.com/2017/04/complete-login-registration-system-asp-mvc.html)
-    - [Part 2](http://www.dotnetawesome.com/2017/04/part-2-complete-login-and-registration-asp-mvc.html)
+    - [Part 1](Login/Part_1.html)
+    - [Part 2](Login/Part_2.html)
   - Optional: [Getting Started with Entity Framework 6 Code First using MVC 5](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/)
   - Optional: [Deploying ASP.NET apps](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-dotnet-framework)
 - Slides to Read
