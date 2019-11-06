@@ -24,7 +24,7 @@
     - Class diagram
     - Sequence diagram
     - Entity relationship diagram
-  - [Mockup / Wireframe](https://brainhub.eu/blog/difference-between-wireframe-mockup-prototype/)
+  - [Mockup / Wireframe / Prototype](https://brainhub.eu/blog/difference-between-wireframe-mockup-prototype/)
     - [Balsamiq Wireframes](https://balsamiq.com/)
     - [Marvelapp](https://marvelapp.com/)
     - [XD](https://www.adobe.com/products/xd.html)
@@ -37,11 +37,13 @@
     - Google Cloud
     - Heroku
 - Session 2: Introduction to MVC and Entity Framework
-- Session 3: Lab (ASP.NET-MVC-Overview)
-- Session 4: Complete login and registration system in ASP.NET MVC application
+- Session 3: Assignments Introduction
+  - Lab (ASP.NET-MVC-Overview)
+- Session 4
+  - ASP.NET MVC Security
+  - Role Based Security in ASP.NET MVC 5 Web Applications
   - Lab (ASP.NET Identity)
-- Session 5 & 6 : Assignments Introduction
-  - Lab: Creating Blog with ASP.NET MVC
+- Session 5 & 6 : Lab (Creating Blog with ASP.NET MVC)
 - Session 7 & 8: Lab (Events Lab with ASP.NET MVC)
 - Session 9, 10, 11, 12 : Assignemnts
 - Session 13 & 14: Assignments Feedbacks and 2nd Chance
@@ -51,9 +53,8 @@
 - ASP.NET Hands on
   - [Getting Started with ASP.NET MVC 5](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/)
   - [Getting Started with Entity Framework 6 Database First Using MVC 5](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/database-first-development/)
-  - Complete login and registration system in ASP.NET MVC application
-    - [Part 1](Login/Part_1.html)
-    - [Part 2](Login/Part_2.html)
+  - [ASP.NET MVC Security](https://www.tutorialspoint.com/asp.net_mvc/asp.net_mvc_security.htm)
+  - [Role Based Security in ASP.NET MVC 5 Web Applications](https://www.dotnetcurry.com/aspnet-mvc/1102/aspnet-mvc-role-based-security)
   - Optional: [Getting Started with Entity Framework 6 Code First using MVC 5](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/)
   - Optional: [Deploying ASP.NET apps](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-dotnet-framework)
 - Slides to Read
