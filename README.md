@@ -37,15 +37,25 @@
     - Google Cloud
     - Heroku
 - Session 2: Introduction to MVC and Entity Framework
-- Session 3: Assignments Introduction
   - Lab (ASP.NET-MVC-Overview)
-- Session 4
+- Session 3 & 4:
+  - Assignments Introduction
+  - Lab (Creating Blog with ASP.NET MVC)
+- Session 5
   - ASP.NET MVC Security
   - Role Based Security in ASP.NET MVC 5 Web Applications
   - Lab (ASP.NET Identity)
-- Session 5 & 6 : Lab (Creating Blog with ASP.NET MVC)
-- Session 7 & 8: Lab (Events Lab with ASP.NET MVC)
-- Session 9, 10, 11, 12 : Assignemnts
+- Session 6 & 7 
+  - Lab (Events Lab with ASP.NET MVC)
+  - Lab (ASP.NET-Deployment) 
+- Session 8
+  - Review ASM1
+  - Deadline ASM1
+- Session 9, 10: Assignments
+- Session 11: Review ASM2
+- Session 12
+  - Demo Application
+  - Deadline ASM2
 - Session 13 & 14: Assignments Feedbacks and 2nd Chance
 
 ## Training Materials
@@ -55,6 +65,7 @@
   - [Getting Started with Entity Framework 6 Database First Using MVC 5](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/database-first-development/)
   - [ASP.NET MVC Security](https://www.tutorialspoint.com/asp.net_mvc/asp.net_mvc_security.htm)
   - [Role Based Security in ASP.NET MVC 5 Web Applications](https://www.dotnetcurry.com/aspnet-mvc/1102/aspnet-mvc-role-based-security)
+  - [ASP.NET MVC 5 Security And Creating User Role](https://code.msdn.microsoft.com/ASPNET-MVC-5-Security-And-44cbdb97)
   - Optional: [Getting Started with Entity Framework 6 Code First using MVC 5](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/)
   - Optional: [Deploying ASP.NET apps](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-dotnet-framework)
 - Slides to Read
@@ -69,4 +80,5 @@
   - ASP.NET Identity
   - Creating Blog with ASP.NET MVC
   - Events Lab with ASP.NET MVC
+  - ASP.NET-Deployment
   

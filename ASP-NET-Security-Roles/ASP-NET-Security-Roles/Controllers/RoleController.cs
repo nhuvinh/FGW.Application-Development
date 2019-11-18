@@ -1,4 +1,5 @@
-﻿using ASP_NET_Security_Roles.Models;
+﻿using ASP_NET_Security_Roles.CustomFilters;
+using ASP_NET_Security_Roles.Models;
 using Microsoft.AspNet.Identity.EntityFramework;
 using System;
 using System.Collections.Generic;
@@ -12,7 +13,6 @@ namespace ASP_NET_Security_Roles.Controllers
     public class RoleController : Controller
     {
 				ApplicationDbContext context;
-
 				public RoleController()
 				{
 						context = new ApplicationDbContext();
